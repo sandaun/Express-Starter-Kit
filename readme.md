@@ -1,4 +1,4 @@
-# MEAN Starter Kit
+# Express Starter Kit
 
 It’s a web APP basic configuration with MEAN stack.
 
@@ -49,8 +49,3 @@ If you want to configure your APP manually:
   - `npm i express-session`
   - `npm i connect-mongo`
   - `npm i connect-flash`
-
-
-## Licence
-
-Copyright (c) 2019 JdeJ
